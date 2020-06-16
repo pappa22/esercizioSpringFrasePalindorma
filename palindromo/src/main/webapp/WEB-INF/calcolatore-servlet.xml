@@ -13,7 +13,7 @@
  
 	<mvc:annotation-driven />
 	<context:component-scan
-		base-package="it.dstech.formazione.controller" />
+		base-package="it.dstech.controller" />
 	<mvc:default-servlet-handler />
  
 	<bean id="viewResolver"
